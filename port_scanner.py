@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import pyfiglet
 import sys
 import socket
